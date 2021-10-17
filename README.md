@@ -1,6 +1,12 @@
 ### Hi there 👋 my name is Robert S.W. Carroll (robswc)
 
-I’m a full-stack developer based in Virginia. I'm currently working on creating resources for quantitative trading and developing python-based applications at both Shenandoah Research and ![Synctivate](https://github.com/Synctivate). I enjoy all things computer science and hope to eventually push the boundaries within the field. See more about me.
+#### I’m a full-stack developer based in Virginia. 
+
+#### I'm currently working on creating resources for quantitative trading 📊 and developing python-based applications at both [Shenandoah Research](https://www.shenandoah.capital) and [Synctivate](https://github.com/Synctivate). I enjoy all things computer science 🖥 and hope to eventually push the boundaries within the field.
+
+#### [Checkout my (new) site to see more about me!](https://www.robswc.me)
+
+
 
 <!--
 **robswc/robswc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
